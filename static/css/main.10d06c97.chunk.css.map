@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,EACE,QAAS,CACT,SAAU,CACV,qBACF,CAEA,KACE,qBACF","file":"main.10d06c97.chunk.css","sourcesContent":["* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\nbody {\n  background-color: black;\n}\n\n/* This is test comment */\n"]}
