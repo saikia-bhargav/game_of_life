@@ -32,5 +32,6 @@ jobs:
     #   run: npm test
 
     - name: Build
-      run: npm run build
-      run: echo "Integration workflow SUCCESS"
+      run: | 
+        npm run build
+        echo "Integration workflow SUCCESS"
