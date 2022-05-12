@@ -2,7 +2,7 @@
   "name": "game_of_life",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bhargav-saikia1999.github.io/game-of-life/",
+  "homepage": "https://bhargav-saikia1999.github.io/game_of_life/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
